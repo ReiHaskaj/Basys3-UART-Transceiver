@@ -78,6 +78,7 @@ To run:
 ### UART Communication in Action
 
 Full videos:
+-
 Video 1 : Laptop → Board
 [▶ Watch](media/Laptop_Board.mp4)
 
